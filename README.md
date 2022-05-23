@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kunutza
-- 👀 I’m interested in game developement
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning python , c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

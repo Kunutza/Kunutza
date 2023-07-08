@@ -1,4 +1,4 @@
-## Kunutza
+### Kunutza
 
 - 👋 Hi, I’m @Kunutza
 - 👀 I’m interested in learning

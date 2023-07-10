@@ -1,12 +1,13 @@
 ### Kunutza
 
-- 👋 Hi, I’m @Kunutza
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning anything...
-- 💞️ I’m looking to collaborate on any project that appeals to me
-- 📫 How to reach me ```Discord: Kunutza#7010```
+Just looking to make my developer workflow truly great, gain programming experience, and ultimately craft some really awesome software.
 
-<!---
-Kunutza/Kunutza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 💬 Everything in my repos is developed in my spare time
+* 👀 I’m interested in learning
+  * [C](https://www.open-std.org/jtc1/sc22/wg14/)
+  * [C++](https://isocpp.org)
+  * [Zig](https://ziglang.org/)
+  * [Rust](https://www.rust-lang.org/)
+  * [HTMX](https://htmx.org/)
+* 💞️ I’m looking to collaborate on any project that appeals to me
+* 📫 Reach to me on ```Discord: Kunutza#7010```

@@ -10,3 +10,10 @@ Just looking to make my developer workflow truly great, gain programming experie
   * [HTMX](https://htmx.org/)
 * 💞️ I’m looking to collaborate on any project that appeals to me
 * 📫 Reach to me on ```Discord: Kunutza#7010```
+<!---
+CMake/CMakeLists.txt
+Makefile
+
+In summary: The difference between CMake and Make is that Make creates executables from the source files, which have to include a Makefile. 
+In contrast, when using CMake, a CMakeLists. txt file is provided, which is used to create a Makefile.
+-->

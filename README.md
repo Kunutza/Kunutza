@@ -4,8 +4,7 @@ Just looking to make my developer workflow truly great, gain programming experie
 
 * 💬 Everything in my repos is developed in my spare time
 * 👀 I’m interested in learning
-  * [C](https://www.open-std.org/jtc1/sc22/wg14/)
-  * [C++](https://isocpp.org)
+  * [C](https://www.open-std.org/jtc1/sc22/wg14/)/[C++](https://isocpp.org)
   * [Zig](https://ziglang.org/)
   * [Rust](https://www.rust-lang.org/)
   * [HTMX](https://htmx.org/)

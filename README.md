@@ -9,6 +9,7 @@ Just looking to make my developer workflow truly great, gain programming experie
   * [Rust](https://www.rust-lang.org/)
   * [HTMX](https://htmx.org/)
   * [PostgreSQL](https://www.postgresql.org/)
+   <!--- could use neondb for that-->
 * 💞️ I’m looking to collaborate on any project that appeals to me
 * 📫 Reach to me on ```Discord: Kunutza#7010```
 <!---

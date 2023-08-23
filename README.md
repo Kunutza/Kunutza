@@ -6,7 +6,7 @@ Just looking to make my developer workflow truly great, gain programming experie
 * 👀 I’m interested in learning
   * [C](https://www.open-std.org/jtc1/sc22/wg14/)/[C++](https://isocpp.org)
   * [Zig](https://ziglang.org/)
-  * [JavaScript](https://www.javascript.com/), [HTMX](https://htmx.org/)
+  * [PHP](https://www.php.net/), [JavaScript](https://www.javascript.com/), [HTMX](https://htmx.org/)
   * [PostgreSQL](https://www.postgresql.org/)
    <!--- could use neondb for that-->
 * 💞️ I’m looking to collaborate on any project that appeals to me

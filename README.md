@@ -8,6 +8,7 @@ Just looking to make my developer workflow truly great, gain programming experie
   * [Zig](https://ziglang.org/)
   * [PHP](https://www.php.net/), [JavaScript](https://www.javascript.com/), [HTMX](https://htmx.org/)
   * [PostgreSQL](https://www.postgresql.org/)
+  * [Docker](https://www.docker.com/)
    <!--- could use neondb for that-->
 * 💞️ I’m looking to collaborate on any project that appeals to me
 * 📫 Reach to me on ```Discord: Kunutza#7010```

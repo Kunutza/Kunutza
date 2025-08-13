@@ -3,10 +3,9 @@
 Just looking to make my developer workflow truly great, gain programming experience, and ultimately craft some really awesome software.
 
 * 💬 Everything in my repos is developed in my spare time
-* 👀 I’m interested in learning
+* 👀 I’m interested in
   * [C](https://www.open-std.org/jtc1/sc22/wg14/)/[C++](https://isocpp.org)
   * [Zig](https://ziglang.org/)
-  * [PHP](https://www.php.net/), [JavaScript](https://www.javascript.com/)
   * [PostgreSQL](https://www.postgresql.org/)
   * [Docker](https://www.docker.com/)
    <!--- could use neondb for that-->

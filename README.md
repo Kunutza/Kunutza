@@ -6,6 +6,7 @@ Just looking to make my developer workflow truly great, gain programming experie
 * 👀 I’m interested in
   * [C](https://www.open-std.org/jtc1/sc22/wg14/)/[C++](https://isocpp.org)
   * [Zig](https://ziglang.org/)
+  * [Python](https://www.python.org/)
   * [PostgreSQL](https://www.postgresql.org/)
   * [Docker](https://www.docker.com/)
    <!--- could use neondb for that-->
